@@ -34,3 +34,4 @@ else if (answer.operator == "Multiplication") {
 else{
     console.log("Invalid operator");
 }
+console.log("The end");
